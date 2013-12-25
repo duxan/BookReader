@@ -11,7 +11,7 @@ also be used to view other books.
 BookReader plugin for Omeka allows you to create online flip book from image
 files listed in gDoc spreadsheet (clone from https://github.com/duxan/bookreaderspreadsheet).
 
-Therefore this plugin is merge of funcionalities from [BookReader](https://github.com/jsicot/BookReader) and [bookreaderspreadsheet](https://github.com/duxan/bookreaderspreadsheet). Main benefit is that item doesn't need to have all pages/images uploaded to Omeka and that there is no need for composit PDF, so presentation is completely parted from metadata.
+Therefore this plugin is merge of funcionalities from [BookReader](https://github.com/jsicot/BookReader) and [bookreaderspreadsheet](https://github.com/duxan/bookreaderspreadsheet) explained [HERE](http://www.nypl.org/blog/2013/06/25/binding-your-own-ebooks-pt-1-bookreader). Main benefit is that item doesn't need to have all pages/images uploaded to Omeka and that there is no need for composit PDF, so presentation is completely parted from metadata.
 
 
 Installation
