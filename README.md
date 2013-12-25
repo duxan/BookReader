@@ -4,7 +4,7 @@ BookReader (plugin for Omeka)
 Build status
 -----------
 
-[![Build Status](https://travis-ci.org/duxan/BookReaderGdocsList?branch=master)](https://travis-ci.org/duxan/BookReaderGdocsList)
+[![Build Status](https://travis-ci.org/duxan/BookReaderGdocsList.png?branch=master)](https://travis-ci.org/duxan/BookReaderGdocsList)
 
 Summary
 -----------
