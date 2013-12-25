@@ -58,7 +58,7 @@ Problems/issues
 - Thumbs are not set because files are not in database but on custom server place listed in gDoc.
 - Link to individual spreadsheet is hardcoded for testing, it needs to be extracted from item metadata.
 - Plugin now messes up Zoom.it plugin, so separation is needed.
-- Desired behaviour> user uploads PDF, pages are extracted but not added to item, pages converted to jpgs and linked to plugin to feed bookreader.
+- Desired behaviour> user uploads PDF, pages are extracted but not added to item, pages converted to jpgs (http://harikrish.wordpress.com/2011/04/07/ubuntu-linux-command-line-tool-to-convert-pdf-to-image-and-from-image-to-pdf/) and linked to plugin to feed bookreader.
 
 
 Optional plugins
