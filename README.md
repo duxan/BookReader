@@ -1,6 +1,9 @@
 BookReader (plugin for Omeka)
 =============================
 
+Build status
+-----------
+
 
 Summary
 -----------
